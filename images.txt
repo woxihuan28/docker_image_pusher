@@ -1,3 +1,4 @@
-dyrnq/kube-webhook-certgen:v20231226-1a7112e06
-dyrnq/ingress-nginx-controller:v1.9.6
-
+#dyrnq/kube-webhook-certgen:v20231226-1a7112e06
+#dyrnq/ingress-nginx-controller:v1.9.6
+flannel/flannel-cni-plugin:v1.5.1-flannel1
+flannel/flannel:v0.25.4
