@@ -7,4 +7,5 @@
 #dyrnq/kube-webhook-certgen:v20221220-controller-v1.5.1-58-g787ea74b6
 #mysql:8.0.34
 #mysql:5.7.43
-redis:7.2.5
+#redis:7.2.5
+elasticsearch:7.17.22
