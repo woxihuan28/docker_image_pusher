@@ -8,4 +8,5 @@
 #mysql:8.0.34
 #mysql:5.7.43
 #redis:7.2.5
-elasticsearch:7.17.22
+#elasticsearch:7.17.22
+joxit/docker-registry-ui:2.5.7
