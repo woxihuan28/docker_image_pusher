@@ -10,4 +10,5 @@
 #redis:7.2.5
 #elasticsearch:7.17.22
 #joxit/docker-registry-ui:2.5.7
-bitnamilegacy/testlink-archived:1.9.20
+#bitnamilegacy/testlink-archived:1.9.20
+ganex/bitnami-testlink:1.9.20-debian-10-r676
